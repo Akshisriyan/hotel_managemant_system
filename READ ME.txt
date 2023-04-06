@@ -1,0 +1,5 @@
+USER ID - admin
+USER PASSWORD - admin
+
+
+Run in HOTEL MANGEMENT SYSTEM
